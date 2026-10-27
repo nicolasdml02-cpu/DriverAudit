@@ -1,0 +1,10 @@
+{
+  "Realtek High Definition Audio": {
+    "versao_recente": "6.0.10020.0",
+    "site_oficial": "https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-software"
+  },
+  "AMD High Definition Audio Device": {
+    "versao_recente": "10.0.1.35",
+    "site_oficial": "https://www.amd.com/en/support"
+  }
+}
