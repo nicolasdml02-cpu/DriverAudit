@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34043978/README.md)
 # 🚗 DriverPulse — Auditoria e Checkout de Drivers do Sistema
 
 O **DriverPulse** é uma aplicação desktop desenvolvida em Python e PyQt6 com foco em auditoria de hardware e gerenciamento da integridade de drivers no Windows. A ferramenta realiza uma varredura aprofundada nos componentes físicos do computador (Placas de Vídeo, Áudio, Rede, Processador e Chipset/Sistema), compara as versões instaladas com uma base de dados local de recomendações, salva o histórico de análises em um banco SQLite e fornece links oficiais dos fabricantes para atualização rápida.
@@ -105,9 +104,3 @@ Para gerar a versão executável independente (portátil):
 3. Renomeie a pasta ou o arquivo `main.exe` para `DriverPulse.exe`.
 
 > **⚠️ Importante:** Mantenha sempre a pasta `_internal` no mesmo diretório do arquivo `.exe` para garantir a execução correta das dependências compiladas.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
